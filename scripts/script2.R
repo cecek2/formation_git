@@ -1,0 +1,1 @@
+b<-paste0("Ceci est le 2e test")
